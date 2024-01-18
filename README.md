@@ -1,1 +1,2 @@
-# raylib-cpm-cmake-boilerplate
+# Raylib CMake Boilerplate
+
